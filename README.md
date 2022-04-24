@@ -1,6 +1,6 @@
-# seq2point-mobilenetV1
+# LightNILM
 
-# seq2point-mobilenetV1
+# LightNILM
 
 
 **Requirements**
